@@ -1,0 +1,3 @@
+Para comentar o descomentar las líneas de código que tengamos seleccionadas, tenemos la combinación de teclas Ctrl-k-c, para comentar, y Ctrl-k.u, para descomentar.
+
+ctrl+c detener proceso python

@@ -1,0 +1,8 @@
+lista1=['Fernando',35,'Sistema']
+lista2=['Paola'.24,'Contadora']
+lista=[]
+lista.appent(lista1)
+lista.appent(lista2)
+print(lista)
+print(lista[0])
+print(lista[1][1])
